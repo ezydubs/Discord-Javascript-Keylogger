@@ -10,7 +10,7 @@ This project is intended strictly for educational and research purposes only. Th
 
 ### Step 1: Clone the Repository
 ```sh
-git clone https://github.com/ezydubs/discord-keylogger.git
+git clone https://github.com/ezydubs/Discord-Javascript-Keylogger.git
 ```
 
 ### Step 2: Modify the log_size Variable
